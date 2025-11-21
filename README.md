@@ -6,5 +6,5 @@ This is a Demo for Git &amp; Github class.
 Ravi Ranjan
 
 # Student 
-Sanjeet Kumae
+Sanjeet Kumar
 
